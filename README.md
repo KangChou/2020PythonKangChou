@@ -1,2 +1,3 @@
 # 2020PythonKangChou
- python
+ python 3
+# 算法基础
