@@ -1,0 +1,133 @@
+
+## 1.下载安装GitHub Desktop
+
+GitHub桌面版下载地址：https://desktop.github.com/
+![image1.png](https://upload-images.jianshu.io/upload_images/15863171-22f93f6e82f20263.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+下载GitHub Desktop, 如图image1.png
+
+## 2.GitHub桌面版，登录账号
+
+点击File中的设置Options，windows安装之后自动跳出登录界面
+![image2.png](https://upload-images.jianshu.io/upload_images/15863171-01ef68e5d3f008c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 3.添加项目方法
+
+(1)、在码云上创建的仓库，下载至本地（或者自行在桌面版上创建，我这里就是怎么做的）
+
+点击File中找到ADD仓库就可以了
+![image3.png](https://upload-images.jianshu.io/upload_images/15863171-8d1d201c3d39a97b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+刚刚登陆你的界面是这样的
+![image4](https://upload-images.jianshu.io/upload_images/15863171-53c38484b90a1e65?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 4.粘贴仓库代码，存放至本地文件
+
+直接在桌面版的仓库中打开
+
+![image5.png](https://upload-images.jianshu.io/upload_images/15863171-033b30bfd533ac47.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+* * *
+
+## 5.提交代码到码云
+这里利用`VScode编辑器`输入些文字
+![image6.png](https://upload-images.jianshu.io/upload_images/15863171-11233580b9797e46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image.png](https://upload-images.jianshu.io/upload_images/15863171-084cfd80787de4b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+点击右边的Fetch进行推送
+![image.png](https://upload-images.jianshu.io/upload_images/15863171-d7617cbadd61c565.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+回到自己的仓库就可以看到自己的项目文件
+![image.png](https://upload-images.jianshu.io/upload_images/15863171-18e517f4d37f3357.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## 备注：提交过程可以参考下面的详细步骤（引用zhaoguoting@）
+![image](https://upload-images.jianshu.io/upload_images/15863171-6f010f79ff7de387?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-9e919437e8848d29?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-2c669e941f73852c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 版本回退，恢复至历史版本
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-5ed29c9a8bd11e1f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-0be69595a99b1ea6?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-854c5ec507e90ec1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+## 6.创建分支
+
+#### 创建分支方法一：码云上创建分支
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-0034b6d1d70de6f1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-b4c1bac9103a768f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-2285263503ba2829?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+#### 创建分支方法二：GItHub桌面端创建分支
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-efd5744154bc98d9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-454f30e733f42143?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+## 7.提交分支
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-550d84bf8a8a985d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-e2ca7ce7f2a7ac15?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+## 8.合并分支
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-512d6acae058c026?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-6bcdd65d37eaa594?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-b2c9b9b25547708f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-4dd0ad163cce3532?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-8eac69a7e3c7bd34?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+## 9.删除分支
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-101e90e96459d3d4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+![image](https://upload-images.jianshu.io/upload_images/15863171-10412feeb32c3cb0?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+image.png
+
+* * *
+
+
+
