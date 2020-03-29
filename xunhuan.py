@@ -8,4 +8,4 @@ while guess != 9:
          if guess > 9:
               print("大了！大了！")
          else:
-              print("小了！小了！")
+              print("小了！小了！") 
