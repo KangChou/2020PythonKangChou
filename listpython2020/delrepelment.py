@@ -1,3 +1,4 @@
+# 删除重复的元素
 def dedupe(items):
     seen = set()
     for i in items:
