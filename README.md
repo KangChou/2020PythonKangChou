@@ -19,8 +19,6 @@
     2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020]
 
 
-    >>> nnumber[2019] Traceback (most recent call last):
-    >File "<stdin>", line 1, in <module>NameError: name 'nnumber' is not defined
     >>>> number[2019]
     2020
     >>> number[0]    
@@ -28,15 +26,8 @@
     >>> list1 = ['2020','Python','baidu','douyin']
     >>> list1[3]
     'douyin'
-    >>> print(list[3])
-    Traceback (most recent call last):
-     File "<stdin>", line 1, in <module>
-    TypeError: 'type' object is not subscriptable
-    >>>  print(list1[3])
-    File "<stdin>", line 1
-    print(list1[3])
-    ^
-    IndentationError: unexpected indent
+    
+   
     >>> print (list1[3])
     douyin
     >>> list2 = [1,2,3,4,5,6,7,8,9,]    
