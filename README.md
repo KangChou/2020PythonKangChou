@@ -100,6 +100,7 @@ Python文件通常有两种使用方法:
 书写小技巧：图片先在简书转为MK.md文件语法，再放入github的.md文件中。
 
 ####4、计算元素出现次数最多的元素
+
 ![Counter.JPG](https://upload-images.jianshu.io/upload_images/18578734-c24f6f477a6523a4.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
     #计算元素出现次数最多的名人
