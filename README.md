@@ -2,12 +2,12 @@
 详细请看上面的.py文件
  python 3
 # 算法基础与数据结构
-
-# 1、创建数字列表
+## 一、数据结构基础
+### 1、创建数字列表
 使用方法range()
 
     number=list(range(1,4)) %不包括右端点4
-# 2、访问表中的值
+### 2、访问表中的值
 
 <span style="color: green">  
     >>> number=list(range(1,2021))
@@ -33,7 +33,7 @@
     >>> list2 = [1,2,3,4,5,6,7,8,9,]    
     >>> list2[1:4]
     [2, 3, 4] 
-# 3、删除中重复的元素并使得列表元素保持不变
+### 3、删除中重复的元素并使得列表元素保持不变
     [1,4,9,5,5,8,3]
 
 
@@ -99,7 +99,7 @@ Python文件通常有两种使用方法:
 
 书写小技巧：图片先在简书转为MK.md文件语法，再放入github的.md文件中。
 
-#### 4、计算元素出现次数最多的元素
+### 4、计算元素出现次数最多的元素
 
 ![Counter.JPG](https://upload-images.jianshu.io/upload_images/18578734-c24f6f477a6523a4.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
