@@ -87,7 +87,7 @@
        [{'x': 6, 'y': 72}, {'x': 16, 'y': 12}, {'x': 26, 'y': 52}, {'x': 36, 'y': 32}]
     [{'x': 6, 'y': 72}, {'x': 16, 'y': 12}, {'x': 26, 'y': 52}, {'x': 36, 'y': 32}] 
 
-### 说明：`if __name__ == '__main__':`的作用
+
 Python文件通常有两种使用方法:
 第一是作为脚本直接执行;
 第二是 import 导入其他的 python 脚本程序中被调用时（模块重用）被执行。
@@ -96,8 +96,8 @@ Python文件通常有两种使用方法:
 下面举例说明：
 #### 例1 首先我们先建立一个pybianlie.py文件，运行代码如下
 
-![-->](Image/bianlie.jpg)
+![bianlie.JPG](https://upload-images.jianshu.io/upload_images/18578734-0e08838eafbdcb9c.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 例2 建立第二个test.py文件，运行代码如下
+![test.JPG](https://upload-images.jianshu.io/upload_images/18578734-0b627e8dcd4846e5.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![-->](Image/test.jpg) 
