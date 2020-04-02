@@ -100,4 +100,4 @@ Python文件通常有两种使用方法:
 
 #### 例2 建立第二个test.py文件，运行代码如下
 
-![-->](Image/test.jpg)
+![-->](Image/test.jpg) 
