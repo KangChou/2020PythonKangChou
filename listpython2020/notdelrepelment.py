@@ -8,7 +8,7 @@ def funha(items, key=None):
             seen.add(a)
 
 if __name__ == "__main__":
-    b = [{'x': 6, 'y': 72},
+    b = [{'x': 36, 'y': 32},
         {'x': 16, 'y': 12},
         {'x': 26, 'y': 52},
         {'x': 36, 'y': 32}] 
