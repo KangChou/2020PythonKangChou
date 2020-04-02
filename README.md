@@ -101,3 +101,4 @@ Python文件通常有两种使用方法:
 #### 例2 建立第二个test.py文件，运行代码如下
 ![test.JPG](https://upload-images.jianshu.io/upload_images/18578734-0b627e8dcd4846e5.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+书写小技巧：图片先在简书转为MK.md文件语法，再放入github的.md文件中。
