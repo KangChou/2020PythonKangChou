@@ -2,6 +2,7 @@
 详细请看上面的.py文件
  python 3
 # 算法基础与数据结构
+[每日算法之旅(第一天):枚举算法的平凡与伟大](https://mp.weixin.qq.com/s?__biz=MzIwNzUwOTY1Nw==&mid=2247485927&idx=1&sn=b7724bfd20e306a72d2b23f795315169&chksm=97100811a06781073b4c99fda4cbc4fd904752d4076641dc5246a1a9130529531a80d1189c53&token=1006181174&lang=zh_CN#rd)
 ## 一、数据结构基础
 ### 1、创建数字列表
 使用方法range()
