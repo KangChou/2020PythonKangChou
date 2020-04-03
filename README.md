@@ -6,6 +6,7 @@
 
 # 递归的思想
 您见过一套俄罗斯娃娃吗？最初，您只会看到一个通常为彩绘木头的雕像，看起来像这样：
+
 ![image](https://upload-images.jianshu.io/upload_images/15863171-17d1eaf3516e0866.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/196/format/webp)
 
 您可以移除第一个玩偶的上半部分，并且在里面看到什么？另一个稍小的俄罗斯娃娃！
