@@ -55,7 +55,7 @@
 
 递归有很多应用程序。在本模块中，我们将看到如何使用递归来计算阶乘函数，确定单词是否是回文式，计算数字的幂，绘制类型的分形以及解决古老的河内塔问题。以后的模块将使用递归来解决其他问题，包括排序。
 
-[参考文献]([https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)
+![参考文献]([https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)
 )
 
 
