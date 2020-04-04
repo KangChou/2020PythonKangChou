@@ -7,56 +7,29 @@
 # 递归的思想
 您见过一套俄罗斯娃娃吗？最初，您只会看到一个通常为彩绘木头的雕像，看起来像这样：
 
-![image](https://upload-images.jianshu.io/upload_images/15863171-17d1eaf3516e0866.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/196/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/15863171-782f2379558bd6da.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 您可以移除第一个玩偶的上半部分，并且在里面看到什么？另一个稍小的俄罗斯娃娃！
 
-![image](https://upload-images.jianshu.io/upload_images/15863171-b6c019c5a972df9d.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/414/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/15863171-e00f6450bc007061.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 您可以删除该洋娃娃并将其上半部分和下半部分分开。然后您会看到另一个甚至更小的娃娃：
 
-![image](https://upload-images.jianshu.io/upload_images/15863171-ece4cc36b0d99e2c.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/581/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/15863171-75c524c491823fff.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 再一次：
 
-![image](https://upload-images.jianshu.io/upload_images/15863171-efc7396bd47ef9e1.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/558/format/webp)
+![image](https://upload-images.jianshu.io/upload_images/15863171-dd0462557218cf67.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 而且您可以继续。最终，您找到了最年轻的俄罗斯娃娃。它只是一件，因此无法打开：
 
-[图片上传中...(image-7fb9e4-1585931505725-0)]
+![image](https://upload-images.jianshu.io/upload_images/15863171-8a10710b7e16bce0.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 我们从一个大俄罗斯玩偶开始，然后看到越来越小的俄罗斯玩偶，直到我们看到一个很小的玩偶无法容纳另一个。
 
-俄罗斯玩偶与算法有什么关系？就像一个俄罗斯娃娃里面有一个较小的俄罗斯娃娃，里面还有一个甚至更小的俄罗斯娃娃一样，一直到一个很小的俄罗斯娃娃（太小而无法容纳另一个），我们将看到如何设计一种算法来通过解决相同问题的较小实例来解决问题，除非问题很小，以至于我们只能直接解决它。我们称这种技术为**递归**。
+俄罗斯玩偶与算法有什么关系？就像一个俄罗斯娃娃里面有一个较小的俄罗斯娃娃，里面还有一个甚至更小的俄罗斯娃娃一样，一直到一个很小的俄罗斯娃娃（太小而无法容纳另一个），我们将看到如何设计一种算法来通过解决相同问题的较小实例来解决问题，除非问题很小，以至于我们只能直接解决它。我们称这种技术为递归。
 
 递归有很多应用程序。在本模块中，我们将看到如何使用递归来计算阶乘函数，确定单词是否是回文式，计算数字的幂，绘制类型的分形以及解决古老的河内塔问题。以后的模块将使用递归来解决其他问题，包括排序。
-
-![image](https://upload-images.jianshu.io/upload_images/15863171-17d1eaf3516e0866.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-您可以移除第一个玩偶的上半部分，并且在里面看到什么？另一个稍小的俄罗斯娃娃！
-
-![image](https://upload-images.jianshu.io/upload_images/15863171-b6c019c5a972df9d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-您可以删除该洋娃娃并将其上半部分和下半部分分开。然后您会看到另一个甚至更小的娃娃：
-
-![image](https://upload-images.jianshu.io/upload_images/15863171-ece4cc36b0d99e2c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-再一次：
-
-![image](https://upload-images.jianshu.io/upload_images/15863171-efc7396bd47ef9e1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-而且您可以继续。最终，您找到了最年轻的俄罗斯娃娃。它只是一件，因此无法打开：
-
-![image](https://upload-images.jianshu.io/upload_images/15863171-5e3f3a138e47c260.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-我们从一个大俄罗斯玩偶开始，然后看到越来越小的俄罗斯玩偶，直到我们看到一个很小的玩偶无法容纳另一个。
-
-俄罗斯玩偶与算法有什么关系？就像一个俄罗斯娃娃里面有一个较小的俄罗斯娃娃，里面还有一个甚至更小的俄罗斯娃娃一样，一直到一个很小的俄罗斯娃娃（太小而无法容纳另一个），我们将看到如何设计一种算法来通过解决相同问题的较小实例来解决问题，除非问题很小，以至于我们只能直接解决它。我们称这种技术为**递归**。
-
-递归有很多应用程序。在本模块中，我们将看到如何使用递归来计算阶乘函数，确定单词是否是回文式，计算数字的幂，绘制类型的分形以及解决古老的河内塔问题。以后的模块将使用递归来解决其他问题，包括排序。
-
-![参考文献]([https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion](https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion)
-)
 
 
 
